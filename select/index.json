@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "アルデバラン",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-06T07:33:52.804712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルデバラン",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_アルデバラン_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルデバラン",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_アルデバラン_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aldebaran [アルデバラン]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Aldebaran_[アルデバラン]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルデバラン",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/04_アルデバラン_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルデバラン",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/05_アルデバラン_AI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アルデバラン",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/06_アルデバラン_AI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アルデバラン\u0000﻿??????",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/07_アルデバラン\u0000﻿_AI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルデバラン",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_アルデバラン_サカナクション.txt"
+    }
+  ]
+}
